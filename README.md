@@ -11,4 +11,5 @@ Træk zip-filen ind.
 
 ## Hvordan bruges det?
 Næste gang du logger ind på en side med unilogin vil du kunne se en knap hvor der står "Opsæt autologin".  
+Efter du har opsat vil du automatisk blive logget ind når du bruger UniLogin.
 ![image](https://user-images.githubusercontent.com/70392256/227587226-424acb60-a31a-4911-9410-e6285996093b.png)
